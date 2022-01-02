@@ -1,24 +1,31 @@
-[<img src="https://i.postimg.cc/TPcT2xrM/miui-12-5.png" height="300">](https://en.miui.com/)
+[<img src="https://i.postimg.cc/tgjSdpHG/v13-head-image.webp" height="200">](https://home.miui.com/)
 
-# MIUI 12 Korean Translations.
+# MIUI 13 Korean Translation
 This is a repository for MIUIAndroid MultiRom project.
 
 # Credits
-    ingbrzy - Builder of MultiRom, Bug reports.
-    cjhyuky - Builder of MIUI12 Korean translation
-    bradly1 - Collaborator of MIUI12 Korean translation
-    xiaomiqm - Collaborator of MIUI12 Korean translation
-    klasses - Collaborator of MIUI12 Korean translation
-    itscutefox - Collaborator of MIUI12 Korean translation
-    
-Thanks to XiaomiStory, ruinses, Ginam Kim, lecahel(for bug reports and translation suggestions).
+* Multi-lang MIUI Developer
+  - ingbrzy
+* Korean Translators
+  - cjhyuky - Lead Translator
+  - bradly1
+  - xiaomiqm
+  - klasses
+  - itscutefox
+* Feedback
+  - XiaomiStory
+  - ruinses
+  - Ginam Kim
+  - lecahel
 
-This sources are based on the Korean translation pack from en.miui.com's global ROM.
+Based on a work at [MIUI](https://home.miui.com/)
 
-# Contacts
-If you have any requests, please email me with screenshot at cjhyuky@gmail.com
+# Contact Us
+If you find any issues or improvements, don't hesitate to contact us with screenshots.   
+오류 또는 건의사항이 있다면, 언제든지 스크린샷과 함께 연락해주세요.
 
-요청사항이 있으시면 cjhyuky@gmail.com이나 [카카오톡 오픈채팅방](https://open.kakao.com/o/gGl0QJB)에 스크린샷과 함께 제보주세요~^^
+* Email: cjhyuky@gmail.com
+* KakaoTalk (for Koreans): https://open.kakao.com/o/gGl0QJB
 
-# XMLs parse check
-https://translators.xiaomi.eu/XML_MIUI12-Korean-ko.html
+# Translation XML checker
+https://translators.xiaomi.eu/XML_MIUI13-Korean-ko.html
