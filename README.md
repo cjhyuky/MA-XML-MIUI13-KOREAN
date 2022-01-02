@@ -1,7 +1,7 @@
 [<img src="https://i.postimg.cc/tgjSdpHG/v13-head-image.webp" height="200">](https://home.miui.com/)
 
 # MIUI 13 Korean Translation
-This is a repository for MIUIAndroid MultiRom project.
+This is a repository for MIUIAndroid MultiRom project. (aka xiaomi.eu)
 
 # Credits
 * Multi-lang MIUI Developer
