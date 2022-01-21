@@ -105,10 +105,6 @@
         <item quantity="other">%1$d 회</item>
         <item quantity="one">%1$d 회</item>
     </plurals>
-    <plurals name="group_unit">
-        <item quantity="other">%1$d 회</item>
-        <item quantity="one">%1$d 회</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">삼십 분 전</item>
     </plurals>
