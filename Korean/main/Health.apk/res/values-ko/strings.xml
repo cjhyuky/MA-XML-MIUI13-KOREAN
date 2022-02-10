@@ -402,9 +402,7 @@
     <string name="date_picker_label_day" />
     <string name="date_picker_lunar">음력</string>
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">중국 달력</string>
     <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
-    <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">일</string>
     <string name="deep_light_detection_open_prompt">다음번 잠자리에 들 때 수면주기가 분석됩니다.</string>
     <string name="deep_sleep">깊은 수면</string>
@@ -507,7 +505,6 @@
     <string name="disable">끄기</string>
     <string name="discard_update">아니오</string>
     <string name="divider">/</string>
-    <string name="diastolic_pressure">이완기</string>
     <string name="divider_format2">%1$s-%2$s</string>
     <string name="divider_format3">%1$s~%2$s</string>
     <string name="dot">.</string>
@@ -761,7 +758,6 @@
     <string name="heart_rate">심박수</string>
     <string name="health_uninstall_dialog_title">Xiaomi 건강을 삭제하시겠습니까?</string>
     <string name="hearing">청력</string>
-    <string name="heart_rate">심박수</string>
     <string name="heavenly_stems_bing">병</string>
     <string name="heavenly_stems_ding">정</string>
     <string name="heavenly_stems_geng">경</string>
