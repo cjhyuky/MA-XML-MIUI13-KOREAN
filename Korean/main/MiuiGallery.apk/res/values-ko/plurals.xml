@@ -463,4 +463,34 @@
     <plurals name="videos_count">
         <item quantity="other">동영상 %d개</item>
     </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%1$s를 포함한 %2$d 앨범</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">"클라우드 저장소가 부족하여 항목 %d개를 동기화할 수 없습니다."</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">클라우드에서 항목 다운로드(%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="muix_appcompat_items_selected">
+        <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">모바일 데이터를 사용하여 %d개 항목 동기화 중</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">%d개 항목 동기화 중</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d개 선택된 항목이 삭제됩니다. 클라우드 및 모든 동기화된 장치에서 완전히 삭제됩니다. 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">선택한 %d개의 항목이 영구적으로 삭제됩니다. 삭제하시겠습니까?</item>
+    </plurals>
 </resources>
