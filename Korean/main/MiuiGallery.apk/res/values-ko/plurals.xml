@@ -478,9 +478,6 @@
     <plurals name="miplay_time_second_unit">
         <item quantity="other">%d초</item>
     </plurals>
-    <plurals name="muix_appcompat_items_selected">
-        <item quantity="other">%d개 항목 선택됨</item>
-    </plurals>
     <plurals name="syncing_gprs_title_link">
         <item quantity="other">모바일 데이터를 사용하여 %d개 항목 동기화 중</item>
     </plurals>
