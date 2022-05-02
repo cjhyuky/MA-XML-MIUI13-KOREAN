@@ -3090,7 +3090,7 @@ Wi‑Fi 주소(BSSID)
     <string name="alarms_and_reminders_footer_title">"이 앱이 알람을 설정하고 시간에 민감한 작업을 예약하도록 허용합니다. 이렇게 하면 앱이 백그라운드에서 실행될 수 있으며 배터리를 더 많이 사용할 수 있습니다. 이 권한이 꺼져 있으면 이 앱에서 예약한 기존 알람 및 시간 기반 이벤트가 작동하지 않습니다."</string>
     <string name="alarms_and_reminders_label">알람 및 알림</string>
     <string name="alarms_and_reminders_switch_title">알람 및 알림 설정 허용</string>
-    <string name="alarms_and_reminders_title">알람 & 알림</string>
+    <string name="alarms_and_reminders_title">알람 &amp; 알림</string>
     <string name="anniversary_status">기념일</string>
     <string name="anniversary_status_content_description">"%1$s의 기념일입니다"</string>
     <string name="audio_status">듣기</string>
