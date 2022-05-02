@@ -3295,7 +3295,6 @@ Wi‑Fi 주소(BSSID)
     <string name="quick_settings_more_user_settings">사용자 설정</string>
     <string name="quick_settings_networks_available">사용 가능한 네트워크</string>
     <string name="quick_settings_networks_unavailable">네트워크를 사용할 수 없음</string>
-    <string name="quick_settings_tiles">기본값</string>
     <string name="reboot_info_auto_boot_global">예정된 알람: %s</string>
     <string name="reboot_info_shutdown_alarm_global">알람 종료: %s</string>
     <string name="recent_conversations">최근 대화</string>
@@ -3340,7 +3339,6 @@ Wi‑Fi 주소(BSSID)
     <string name="user_image_photo_selector">사진 선택</string>
     <string name="user_image_take_photo">사진 찍기</string>
     <string name="user_nickname">별명</string>
-    <string name="velocity_tracker_impl">플랫폼</string>
     <string name="video_status">시청 중</string>
     <string name="volume_ringer_change">벨소리 모드를 변경하려면 탭하세요.</string>
     <string name="wallet_action_button_label_unlock">결제를 위한 잠금 해제</string>
