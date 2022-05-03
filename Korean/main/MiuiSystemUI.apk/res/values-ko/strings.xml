@@ -3135,14 +3135,7 @@ Wi‑Fi 주소(BSSID)
     <string name="guest_resetting">게스트 재설정 중...</string>
     <string name="guest_reset_guest">게스트 재설정</string>
     <string name="guest_reset_guest_confirm_button">재설정</string>
-    <string name="guest_reset_guest_dialog_title">손님을 재설정하시겠습니까?</string>
-    <string name="gxzw_quick_close">닫기</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">알리페이</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">알리페이</string>
-    <string name="gxzw_quick_open_wechat_pay_sub">위챗</string>
-    <string name="gxzw_quick_open_wechat_scan_sub">위챗</string>
-    <string name="gxzw_quick_open_xiaoai_sub">미 AI</string>
-    <string name="heap_dump_tile_name">SysUI 힙 덤프</string>
+    <string name="guest_reset_guest_dialog_title">게스트를 재설정하시겠습니까?</string>
     <string name="high_temp_dialog_help_text">관리 단계 보기</string>
     <string name="input_pattern_after_face_not_allowed">이 기기를 안전하게 유지하려면 %d시간에 한 번 이상 비밀번호를 입력하세요.</string>
     <string name="input_pattern_after_restart_msg">계속하려면 화면 잠금을 확인하세요</string>
@@ -3186,19 +3179,6 @@ Wi‑Fi 주소(BSSID)
     <string name="missed_call">부재중 전화</string>
     <string name="muix_access_state_desc">선택됨</string>
     <string name="muix_alphabet_indexer_name">색인 막대</string>
-    <string name="muix_appcompat_actionbar_immersion_button_more_description">자세히</string>
-    <string name="muix_appcompat_action_mode_deselect_all">선택 해제</string>
-    <string name="muix_appcompat_action_mode_select_all">모두 선택</string>
-    <string name="muix_appcompat_action_mode_title_empty">항목 선택</string>
-    <string name="muix_appcompat_cancel_description">취소</string>
-    <string name="muix_appcompat_confirm_description">확인</string>
-    <string name="muix_appcompat_delete_description">삭제</string>
-    <string name="muix_appcompat_deselect_all">선택 해제</string>
-    <string name="muix_appcompat_deselect_all_description">모두 선택 취소</string>
-    <string name="muix_appcompat_search_action_mode_cancel">취소</string>
-    <string name="muix_appcompat_select_all">모두 선택</string>
-    <string name="muix_appcompat_select_all_description">모두 선택</string>
-    <string name="muix_appcompat_select_item">항목 선택</string>
     <string name="muix_indexer_collect">컬렉션</string>
     <string name="muix_indexer_selected">선택된 %s</string>
     <string name="miui_clock_city_name_local">로컬</string>
@@ -3397,5 +3377,4 @@ Wi‑Fi 주소(BSSID)
     <string name="wifi_hotspot_switch_off_text">끄기</string>
     <string name="wifi_hotspot_switch_on_text">켜기</string>
     <string name="window_blurs">창 흐림 효과 허용</string>
-    <string name="zen_mode_warnings_quit_immediately">끄기</string>
 </resources>
