@@ -34,3 +34,4 @@ Thumbs.db
 *.sqlite
 
 unknown/
+.DS_Store
