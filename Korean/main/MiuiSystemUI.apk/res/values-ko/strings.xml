@@ -2297,5 +2297,4 @@ Wi‑Fi 주소(BSSID)
     <string name="wifi_hotspot_switch_off_text">끄기</string>
     <string name="wifi_hotspot_switch_on_text">켜기</string>
     <string name="window_blurs">창 흐림 효과 허용</string>
-    <string name="accessibility_casting">\@string/quick_settings_casting</string>
 </resources>
