@@ -2299,7 +2299,6 @@ Wi‑Fi 주소(BSSID)
     <string name="window_blurs">창 흐림 효과 허용</string>
 <<<<<<< Updated upstream
 =======
-    <string name="accessibility_casting">\@string/quick_settings_casting</string>
     <string name="a11y_action_pip_move_done">완료</string>
     <string name="a11y_action_pip_move_down">아래로 이동</string>
     <string name="a11y_action_pip_move_left">왼쪽으로 이동</string>
