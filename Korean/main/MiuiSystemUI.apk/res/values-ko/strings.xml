@@ -2297,15 +2297,4 @@ Wi‑Fi 주소(BSSID)
     <string name="wifi_hotspot_switch_off_text">끄기</string>
     <string name="wifi_hotspot_switch_on_text">켜기</string>
     <string name="window_blurs">창 흐림 효과 허용</string>
-<<<<<<< Updated upstream
-=======
-    <string name="a11y_action_pip_move_done">완료</string>
-    <string name="a11y_action_pip_move_down">아래로 이동</string>
-    <string name="a11y_action_pip_move_left">왼쪽으로 이동</string>
-    <string name="a11y_action_pip_move_right">오른쪽으로 이동</string>
-    <string name="a11y_action_pip_move_up">위로 이동</string>
-    <string name="abbrev_month_day_no_year">MMMd</string>
-    <string name="a11y_pip_menu_entered">화면 속 화면 메뉴</string>
-    <string name="accessibility_qr_code_scanner_button">QR 코드 스캐너</string>
->>>>>>> Stashed changes
 </resources>
